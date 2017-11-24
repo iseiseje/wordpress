@@ -1,2 +1,2 @@
 # wordpress
-wordpress-full-width
+Wordpress Full Width Theme Nora
